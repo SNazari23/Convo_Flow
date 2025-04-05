@@ -2,7 +2,7 @@
 Convo Flow is your low-key sidekick for better conversations—right from your wrist. Whether you're breaking the ice at a party or trying to dodge another round of small talk, Convo Flow gives you clever, thoughtful prompts to keep the convo flowing.
 # ❓ Why I Made It 
 As part of my programming journey, I’ve always wanted to create an app. Over winter break, I decided to finally go for it. The idea for Convo Flow came to me after one too many awkward silences and worn-out small talk at a holiday party. 
-# ✨Features 
+# ✨ Features 
 Convo Flow is super simple and easy to use. The main page is a menu where you can choose the type of person or situation you want to have a conversation with.
 # 🏡 Home View: 
 The home screen lets the user select a category (like “friends,” “family,” or “dates). After selecting, the app leads to you theset of prompts for that category.The app is made up of 10 category. 
