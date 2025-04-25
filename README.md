@@ -13,3 +13,15 @@ This screen shows a clean, readable conversation prompt. Users can tap to get th
 <img width="1440" alt="Screenshot 2025-04-04 at 8 01 08 PM" src="https://github.com/user-attachments/assets/cf52fb21-9fa9-49ac-8219-4e67656a7d20" />
 
 # 🧭 Current Version 
+https://apps.apple.com/us/app/convo-flow/id6744659841 
+
+# 📇 Apps add  
+![400x800bb](https://github.com/user-attachments/assets/7b093a1c-4259-4c5a-9f60-6a1eaf4d0ed4)
+
+![400x800bb (1)](https://github.com/user-attachments/assets/6d52f5aa-339c-4b8a-9d05-1e219c11aaed)
+
+![400x800bb (2)](https://github.com/user-attachments/assets/6892d750-25da-45aa-acaf-e14cfcad3b97)
+
+![400x800bb (3)](https://github.com/user-attachments/assets/e383ebc5-b8a5-4656-9cb6-1e587c109be2)
+
+![400x800bb (4)](https://github.com/user-attachments/assets/f3c16b2a-1896-405a-8a45-01e18563f9d3)
